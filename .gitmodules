@@ -1,3 +1,6 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:joespelde/joespelde.github.io.git
+[submodule "voce"]
+	path = voce
+	url = https://github.com/joespelde/voce.git
