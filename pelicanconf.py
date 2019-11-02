@@ -45,7 +45,7 @@ PLUGIN_PATHS = ['{}/plugins'.format(THEME)]
 # Publish
 DELETE_OUTPUT_DIRECTORY = False
 
-USER_LOGO_URL = 'https://ibb.co/gFF6tnw'
+USER_LOGO_URL = 'https://i.ibb.co/S77JVL0/logo.png'
 
 # Sitemap
 SITEMAP_SAVE_AS = 'sitemap.xml'
