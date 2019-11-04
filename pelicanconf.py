@@ -8,7 +8,7 @@ CURRENT_DIR_PATH = Path(__file__).resolve().parent
 
 AUTHOR = 'Joe Spelde'
 SITENAME = 'Joe Spelde'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://joespelde.github.io
 THEME = '{}/voce'.format(CURRENT_DIR_PATH)
 PATH = 'content'
 
