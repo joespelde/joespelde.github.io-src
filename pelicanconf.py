@@ -8,7 +8,7 @@ CURRENT_DIR_PATH = Path(__file__).resolve().parent
 
 AUTHOR = 'Joe Spelde'
 SITENAME = 'Joe Spelde'
-SITEURL = 'joespelde.github.io'
+SITEURL = 'http://localhost:8000'
 THEME = '{}/voce'.format(CURRENT_DIR_PATH)
 PATH = 'content'
 
@@ -17,7 +17,6 @@ DEFAULT_LANG = 'en'
 DEFAULT_PAGINATION = 6
 SUMMARY_MAX_LENGTH = 30
 
-# Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
@@ -27,7 +26,7 @@ AUTHOR_FEED_RSS = None
 # Page Settings
 PAGE_SAVE_AS = '{slug}.html'
 TAGS_URL = 'tags.html'
-ARCHIVES_URL = 'archive.html'
+ARCHIVES_URL = 'archives.html'
 
 # Blogroll
 LINKS = (('Home', '/index.html'),
