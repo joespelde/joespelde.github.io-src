@@ -11,6 +11,7 @@ SITENAME = 'Joe Spelde'
 SITEURL = 'https://joespelde.github.io'
 THEME = '{}/voce'.format(CURRENT_DIR_PATH)
 PATH = 'content'
+STATIC_PATH = '/Users/jspelde/dev/ghpages/static/'
 
 TIMEZONE = 'America/Chicago'
 DEFAULT_LANG = 'en'
