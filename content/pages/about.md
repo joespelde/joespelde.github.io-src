@@ -4,4 +4,4 @@ Slug: about
 Summary: about
 
 #More info to come soon!
- <iframe src="static/jsresume.pdf" width="500" height="700">
+[resume]({filename}/pdfs/jsresume.pdf)
