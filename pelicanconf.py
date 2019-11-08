@@ -9,6 +9,7 @@ CURRENT_DIR_PATH = Path(__file__).resolve().parent
 AUTHOR = 'Joe Spelde'
 SITENAME = 'Joe Spelde'
 SITEURL = 'https://joespelde.github.io'
+# SITEURL = 'http://localhost:8000'
 THEME = '{}/voce'.format(CURRENT_DIR_PATH)
 PATH = 'content'
 STATIC_PATHS = ['images', 'pdfs']
